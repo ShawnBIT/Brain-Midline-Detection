@@ -92,7 +92,7 @@ torchfile==0.1.0
 torchvision==0.4.0a0+9232c4a
 tornado==6.0.3
 tqdm==4.32.1
-urllib3==1.24.3
+urllib3==1.26.5
 visdom==0.1.8.9
 wasabi==0.4.0
 websocket-client==0.57.0
