@@ -13,7 +13,7 @@ crccheck==0.6
 cycler==0.10.0
 cymem==2.0.2
 cytoolz==0.10.0
-dask==2.4.0
+dask==2021.10.0
 dataclasses==0.7
 decorator==4.4.0
 deep-pipe==0.0.7.post1
