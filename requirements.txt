@@ -29,7 +29,7 @@ imgaug==0.2.6
 importlib==1.0.4
 importlib-metadata==0.23
 ipython3==0.0.1
-joblib==0.13.2
+joblib==1.2.0
 jsonpatch==1.24
 jsonpointer==2.0
 kaggle==1.5.6
