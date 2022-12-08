@@ -4,7 +4,7 @@ autopep8==1.5.2
 beautifulsoup4==4.8.1
 blis==0.4.1
 Bottleneck==1.2.1
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 cloudpickle==1.2.2
